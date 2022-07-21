@@ -1,2 +1,7 @@
-# Page 1
+---
+layout: editorial
+---
 
+# Page 4
+
+yoyoyo
